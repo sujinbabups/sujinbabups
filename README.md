@@ -5,6 +5,7 @@
 
 ### About Me
 
+
 - 🌱 I’m currently learning blockchain development, with a focus on smart contracts and decentralized applications.
 - 👨‍💻 My journey into blockchain started with a foundation program at Kerala Blockchain Academy, and I'm currently pursuing the Certified Blockchain Architect Course.
 - 💡 I’m passionate about the potential of blockchain technology and aspire to contribute to its growth in meaningful ways.
@@ -19,6 +20,8 @@
 <a href="https://linkedin.com/in/sujin-babu-p-s-341457205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujin-babu-p-s-341457205" height="30" width="40" /></a>
 <a href="https://instagram.com/p.s_sujin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.s_sujin" height="30" width="40" /></a>
 </p>
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -41,6 +44,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujinbabups&show_icons=true&locale=en&layout=compact" alt="sujinbabups" /></p>
 <br><br><br><br><br><br><br><br>
