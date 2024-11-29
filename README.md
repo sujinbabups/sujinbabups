@@ -11,7 +11,7 @@
 ### About Me
 
 - 🌱 I’m currently learning blockchain development, with a focus on smart contracts and decentralized applications.
-- 👨‍💻 My journey into blockchain started with a foundation program at Kerala Blockchain Academy, and I'm currently pursuing the Certified Blockchain Architect Course.
+- 👨‍💻 My journey into blockchain started with a foundation program at Kerala Blockchain Academy, And i have completed the PG Dploma in Blockchain.
 - 💡 I’m passionate about the potential of blockchain technology and aspire to contribute to its growth in meaningful ways.
 - 📫 How to reach me: **sujinbabups@gmail.com**
 
