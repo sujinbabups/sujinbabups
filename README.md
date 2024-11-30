@@ -22,6 +22,8 @@
 <a href="https://x.com/p_s_Sujin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujin20161122" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sujin-babu-p-s-341457205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujin-babu-p-s-341457205" height="30" width="40" /></a>
 <a href="https://instagram.com/p.s_sujin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.s_sujin" height="30" width="40" /></a>
+<a href="https://discord.com/channels/sujinbabups_49183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="p.s_sujin" height="30" width="40" /></a>
+
 </p>
 
 <br>
