@@ -13,7 +13,6 @@
 - 🌱 I’m currently learning blockchain development, with a focus on smart contracts and decentralized applications.
 - 👨‍💻 My journey into blockchain started with a foundation program at Kerala Blockchain Academy, And i have completed the PG Dploma in Blockchain.
 - 💡 I’m passionate about the potential of blockchain technology and aspire to contribute to its growth in meaningful ways.
-- 📫 How to reach me: **sujinbabups@gmail.com**
 
 ---
 
@@ -23,6 +22,11 @@
 <a href="https://linkedin.com/in/sujin-babu-p-s-341457205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujin-babu-p-s-341457205" height="30" width="40" /></a>
 <a href="https://instagram.com/p.s_sujin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.s_sujin" height="30" width="40" /></a>
 <a href="https://discord.com/channels/sujinbabups_49183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="p.s_sujin" height="30" width="40" /></a>
+
+<a href="mailto:sujinbabups@gmail.com" target="_blank">
+    <img align="center" src="https://imgs.search.brave.com/WmOFe_GNIJk-5qSd9NGkJhSktQaDBP-FFcvlqY5I3TM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni81OTY4LzU5Njg1/MzQucG5nP3NlbXQ9/YWlzX2h5YnJpZA" alt="Gmail" height="30" width="30" />
+</a>
+
 
 </p>
 
