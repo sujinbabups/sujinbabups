@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujin</h1>
-<h3 align="center">A Full Stack Blockchain Developer from Keral, Wayanad</h3>
+<h3 align="center">A Full Stack Blockchain Developer from Kerala, Wayanad</h3>
 
 <div style="text-align: right;">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam01dGhxazR5eHhjN3h1NnQ5bTF0bm12MWFwcG54Z200ZWU5cDg1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.webp" 
