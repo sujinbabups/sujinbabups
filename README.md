@@ -1,4 +1,4 @@
-l<h1 align="center">Hi 👋, I'm Sujin</h1>
+<h1 align="center">Hi 👋, I'm Sujin</h1>
 <div>
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h3 style="margin: 0; text-align: center; flex: 1;">
