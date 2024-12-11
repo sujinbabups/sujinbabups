@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning blockchain development, with a focus on smart contracts and decentralized applications.
 - 👨‍💻 My journey into blockchain started with a foundation program at Kerala Blockchain Academy, And i have completed the PG Dploma in Blockchain.
 - 💡 I’m passionate about the potential of blockchain technology and aspire to contribute to its growth in meaningful ways.
-
+- 🚀 I’m also expanding my skill set by learning the MERN stack to build full-stack web applications.
 ---
 
 <h3 align="left">Connect with me:</h3>
