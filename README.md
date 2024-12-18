@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 &nbsp;About Me 
 &nbsp; 🌱  &nbsp;   Learning blockchain development, focusing on smart contracts and dApps.<br>
-&nbsp; 👨‍💻  &nbsp;   Started with a foundation program at KBA and completed a PG Diploma in Blockchain.<br>
+&nbsp; 👨‍💻  &nbsp;   Building web applications using the MERN stack<br>
 &nbsp; 💡  &nbsp;   Passionate about blockchain’s potential and eager to contribute meaningfully.<br>
 &nbsp; 🚀  &nbsp;   Expanding my skills with the MERN stack to build full-stack web apps.<br>
 
