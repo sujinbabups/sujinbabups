@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Sujin</h1>
 
 ---
- <h3 style="margin: 0; text-align: center; flex: 1;">
+ <h2 style="margin: 0; text-align: center; flex: 1;">
     A Full Stack Blockchain Developer from Kerala, Wayanad
-  </h3>
+  </h2>
 <img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNraGl0NXZsMWU5a3M4ODQ4ZXFzMTRsaXlvcnFmMGE3cjA0OWNkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" style="height: 200px; width: 300px; border: 2px solid #000;" alt="GIF Image">
 
 ### 🧑‍💻 &nbsp;About Me 
