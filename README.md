@@ -6,7 +6,7 @@
  <h2 style="margin: 0; text-align: center; flex: 1;">
     A Full Stack Blockchain Developer from Kerala, Wayanad
   </h2>
-<img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNraGl0NXZsMWU5a3M4ODQ4ZXFzMTRsaXlvcnFmMGE3cjA0OWNkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" style="height: 200px; width: 300px; border: 2px solid #000;" alt="GIF Image">
+<img align="left" src="https://media3.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.webp?cid=ecf05e47w5rpkpi6qaiy35eifpz8mc5giozo0wmlgtvqbqsk&ep=v1_gifs_search&rid=giphy.webp&ct=g" style="height: 220px; width: 320px; border: 2px solid #000;" alt="GIF Image">
 
 ### 🧑‍💻 &nbsp;About Me 
 &nbsp; 🌱  &nbsp;   Learning blockchain development, focusing on smart contracts and dApps.<br>
@@ -24,6 +24,7 @@
 <a href="https://instagram.com/p.s_sujin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.s_sujin" height="30" width="40" /></a>
 <a href="https://discord.com/channels/sujinbabups_49183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="p.s_sujin" height="30" width="40" /></a>
 
+
 <a href="mailto:sujinbabups@gmail.com" target="_blank">
     <img align="center" src="https://imgs.search.brave.com/WmOFe_GNIJk-5qSd9NGkJhSktQaDBP-FFcvlqY5I3TM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni81OTY4LzU5Njg1/MzQucG5nP3NlbXQ9/YWlzX2h5YnJpZA" alt="Gmail" height="30" width="30" />
 </a>
@@ -33,6 +34,9 @@
 <div align="left">
   <a href="https://hyperledger-fabric.readthedocs.io/" target="_blank">
     <img src="https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?logo=hyperledger&logoColor=white&style=for-the-badge" height="33" alt="hyperledger fabric logo" />
+  </a>
+   <a href="https://ethereum.org/en/" target="_blank">
+    <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge" height="33" alt="solidity logo" />
   </a>
   <img width="12" />
   
