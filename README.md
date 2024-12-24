@@ -6,7 +6,7 @@
  <h2 style="margin: 0; text-align: center; flex: 1;">
     A Full Stack Blockchain Developer from Kerala, Wayanad
   </h2>
-<img align="left" src="https://media3.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.webp?cid=ecf05e47w5rpkpi6qaiy35eifpz8mc5giozo0wmlgtvqbqsk&ep=v1_gifs_search&rid=giphy.webp&ct=g" style="height: 220px; width: 320px; border: 2px solid #000;" alt="GIF Image">
+<img align="left" src="https://media3.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.webp?cid=ecf05e47w5rpkpi6qaiy35eifpz8mc5giozo0wmlgtvqbqsk&ep=v1_gifs_search&rid=giphy.webp&ct=g" style="height: 240px; width: 320px; border: 2px solid #000;" alt="GIF Image">
 
 ### 🧑‍💻 &nbsp;About Me 
 &nbsp; 🌱  &nbsp;   Learning blockchain development, focusing on smart contracts and dApps.<br>
