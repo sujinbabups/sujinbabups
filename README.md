@@ -98,9 +98,12 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="33" alt="tailwindcss logo" />
   </a>
-   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://imgs.search.brave.com/gNwShVHwW-NISMTyiJRTVYuQgBb5IEBXQSQ4nqHcsVk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9maWdtYS1p/Y29uLTY4NHgxMDI0/LWJmbzdkb2ZtLnBu/Zw" height="33" alt="tailwindcss logo" />
-  </a>
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="33" alt="Figma logo" />
+</a>
+
+
+
 </div>
 
 <br>
