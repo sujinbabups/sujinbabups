@@ -9,7 +9,7 @@
 <img align="left" src="https://media3.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.webp?cid=ecf05e47w5rpkpi6qaiy35eifpz8mc5giozo0wmlgtvqbqsk&ep=v1_gifs_search&rid=giphy.webp&ct=g" style="height: 240px; width: 320px; border: 2px solid #000;" alt="GIF Image">
 
 ### 🧑‍💻 &nbsp;About Me 
-&nbsp; 🌱  &nbsp;   Learning blockchain development, focusing on smart contracts and dApps.<br>
+&nbsp; 🌱     Learning blockchain development, focusing on smart contracts and dApps.<br>
 &nbsp; 👨‍💻  &nbsp;   Building web applications using the MERN stack<br>
 &nbsp; 💡  &nbsp;   Passionate about blockchain’s potential and eager to contribute meaningfully.<br>
 &nbsp; 🚀  &nbsp;   Expanding my skills with the MERN stack to build full-stack web apps.<br>
