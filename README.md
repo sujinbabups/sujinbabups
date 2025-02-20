@@ -22,7 +22,6 @@
 
 ---
 <h3 align="left">Connect with me:</h3>
-<br>
 <p align="left">
 <a href="https://x.com/p_s_Sujin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujin20161122" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/sujin-babu-p-s-341457205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujin-babu-p-s-341457205" height="30" width="40" /></a>&nbsp;&nbsp;
