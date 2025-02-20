@@ -13,16 +13,21 @@
 &nbsp; 👨‍💻     Building web applications using the MERN stack<br>
 &nbsp; 💡     Passionate about blockchain’s potential and eager to contribute meaningfully.<br>
 &nbsp; 🚀     Expanding my skills with the MERN stack to build full-stack web apps.<br>
+&nbsp; 📚     Continuously learning and staying updated.<br>
+&nbsp; 🛡️     Building secure and efficient backend systems. <br>
+&nbsp; 🛠️     Deepening my knowledge in backend development. <br>
+
 
 <br>
 
 ---
 <h3 align="left">Connect with me:</h3>
+<br>
 <p align="left">
-<a href="https://x.com/p_s_Sujin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujin20161122" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sujin-babu-p-s-341457205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujin-babu-p-s-341457205" height="30" width="40" /></a>
-<a href="https://instagram.com/p.s_sujin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.s_sujin" height="30" width="40" /></a>
-<a href="https://discord.com/channels/sujinbabups_49183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="p.s_sujin" height="30" width="40" /></a>
+<a href="https://x.com/p_s_Sujin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujin20161122" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/sujin-babu-p-s-341457205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujin-babu-p-s-341457205" height="30" width="40" /></a>&nbsp;&nbsp;
+<!-- <a href="https://instagram.com/p.s_sujin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.s_sujin" height="30" width="40" /></a>
+<a href="https://discord.com/channels/sujinbabups_49183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="p.s_sujin" height="30" width="40" /></a> -->
 
 
 <a href="mailto:sujinbabups@gmail.com" target="_blank">
@@ -34,7 +39,7 @@
 <div align="left">
   <a href="https://hyperledger-fabric.readthedocs.io/" target="_blank">
     <img src="https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?logo=hyperledger&logoColor=white&style=for-the-badge" height="33" alt="hyperledger fabric logo" />
-  </a>
+  </a>&nbsp;&nbsp;
    <a href="https://ethereum.org/en/" target="_blank">
     <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge" height="33" alt="solidity logo" />
   </a>
@@ -97,7 +102,7 @@
 
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="33" alt="tailwindcss logo" />
-  </a>
+  </a>&nbsp;&nbsp;
 <a href="https://www.figma.com/" target="_blank">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="33" alt="Figma logo" />
 </a>
